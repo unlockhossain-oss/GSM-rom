@@ -1,0 +1,6 @@
+{
+  "name": "GSM ROM",
+  "description": "GSM ROM - Mobile Servicing, Firmware Repository, Schematics, LCD Database, Phone Specs, Files, and Customer Service Delivery Management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
